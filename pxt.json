@@ -6,7 +6,7 @@
     "dependencies": {
         "core": "*",
 		"neopixel": "github:lzty634158/pxt-neopixel",
-		"Mbit_IR":  "github:Dolphinzzx/mbit-IR"
+		"Mbit_IR":  "github:Dolphinzzx/mbit-IR-1"
     },
     "files": [
         "README.md",
