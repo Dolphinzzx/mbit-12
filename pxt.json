@@ -5,8 +5,8 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-		"neopixel": "github:lzty634158/pxt-neopixel",
-		"Mbit_IR":  "github:keyestudio-team/pxt-RI-receiver"
+		"neopixel": "github:lzty634158/pxt-neopixel"
+		
     },
     "files": [
         "README.md",
