@@ -452,7 +452,7 @@ namespace mbit_Robot {
     const PRESCALE = 0xFE
 
     let initialized = false
-    //let yahStrip: neopixel.Strip;
+    let yahStrip: neopixel.Strip;
 
     export enum enColor {
 
@@ -842,7 +842,7 @@ namespace mbit_Robot {
         setPwm(2, 0, B);
 
     }
-/*
+
     //% blockId=mbit_RGB_Car_Program block="RGB_Car_Program"
     //% weight=99
     //% blockGap=10
@@ -855,7 +855,7 @@ namespace mbit_Robot {
         }
         return yahStrip;  
     }
-*/
+
 
 	//% blockId=mbit_ultrasonic_car block="ultrasonic return distance(cm)"
     //% color="#006400"
